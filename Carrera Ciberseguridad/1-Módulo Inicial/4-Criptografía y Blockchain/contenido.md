@@ -1,0 +1,12 @@
+- Criptografía clásica y moderna.
+- Criptografía simétrica y asimétrica.
+- Funciones hash y firmas digitales.
+- Esteganografía (ocultar datos).
+- Hackeo de mensajes cifrados.
+- Vulneración de contraseñas.
+- Ataques a algoritmos cifrados.
+- Detección de malwares ocultos.
+- Soluciones con blockchain privadas.
+- Implementación de algoritmos cuánticos.
+- Computación cuántica.
+- Criptografía cuántica y post-cuántica.

@@ -1,0 +1,10 @@
+- Gestión del riesgo y cumplimiento.
+- Amenazas y ataques.
+- Antivirus, troyanos, malware, ransomware.
+- Ingeniería social, phishing y variantes.
+- Gestión de identidad: Autenticación y Tokens.
+- Gestión de contraseñas y sistemas biométricos.
+- Monitoreo, controles y logs.
+- Red Team, Blue Team y Purple Team.
+- Evaluación y seguridad en las operaciones.
+- Evaluación de vulnerabilidades y Pentest.

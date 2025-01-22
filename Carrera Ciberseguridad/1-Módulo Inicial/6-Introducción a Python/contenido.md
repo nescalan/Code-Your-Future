@@ -1,0 +1,8 @@
+- Fundamentos de la programación en Python.
+- Usos de una terminal o línea de comandos.
+- Tipos de datos y operaciones.
+- Manejo de bucles repetitivos.
+- Sentencias Condicionales.
+- Desarrollar aplicaciones de consola y escritorio.
+- Implementación de funciones.
+- Manejo de librerías.

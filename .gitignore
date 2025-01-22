@@ -1,52 +1,65 @@
-# Prerequisites
-*.d
+# Archivos del sistema operativo
 
-# Object files
+.DS_Store           # macOS
+Thumbs.db           # Windows
+*.swp               # Linux (archivos de intercambio de Vim)
+._*                 # macOS (archivos ocultos)
+
+# Archivos de compilación
+
+build/
+dist/
+target/
 *.o
-*.ko
-*.obj
-*.elf
-
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
 *.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+*.dll
+*.pyc
+__pycache__/
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
+# Archivos de configuración
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+.env                # Variables de entorno
+config.ini          # Archivos de configuración locales
+*.log               # Archivos de registro
+*.bak               # Archivos de respaldo
+
+# IDEs (Entornos de Desarrollo Integrado)
+
+.idea/             # IntelliJ IDEA
+.vscode/           # Visual Studio Code
+*.suo              # Visual Studio
+*.user             # Visual Studio
+*.sln              # Visual Studio
+
+# Dependencias
+
+node_modules/       # Node.js
+vendor/             # Composer (PHP)
+env/               # Entornos virtuales de Python
+
+# Archivos grandes
+
+*.zip
+*.rar
+*.7z
+
+# Archivos personales o secretos
+
+my_secret_key.txt
+credentials.json
+
+# Archivos de Docker
+
+.dockerignore
+
+# Archivos temporales de editores
+
+*.tmp
+*~
+# Archivos de respaldo de editores
+*.bak
+*.orig
+*.swp
+
+# Archivos de caché
+.cache/

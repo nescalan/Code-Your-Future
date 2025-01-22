@@ -1,0 +1,10 @@
+- Distros: Ubuntu, Debian, Red Hat, Kali Linux
+- Conceptos de Linux On-Premise.
+- Despliegue de Linux en la Nube.
+- Gestión de archivos y directorios.
+- Configuración de la shell bash.
+- Administración de librerías y software.
+- Permisos y atributos de archivos.
+- Salida de comandos.
+- Pipelines (Tuberías).
+- Filtrados y redirecciones.

@@ -1,0 +1,12 @@
+- Fundamentos de una Red.
+- Componentes y tipos de redes.
+- Ancho de banda y medios de acceso.
+- Técnicas de medición de redes y subredes.
+- Analógico vs Digital.
+- Protocolos de Red.
+- Servicios de DNS, DHCP, WWW y FTP.
+- Ethernet y Protocolo de Internet.
+- Máscara de subred y su influencia en TCP/IP.
+- Capas de transporte, VPN y acceso inalámbrico.
+- Armar cables UTP según los estándares existentes.
+- Capas del modelo OSI y modelo Internet.

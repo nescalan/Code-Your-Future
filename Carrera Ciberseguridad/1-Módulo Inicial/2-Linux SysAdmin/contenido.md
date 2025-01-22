@@ -1,0 +1,12 @@
+- Administración de servicios.
+- Regionalización.
+- Gestión de procesos.
+- Compilación de código.
+- Administración de almacenamiento.
+- Diagnóstico y reparación de volúmenes.
+- Cifrado, backups y automatización.
+- Gestión de storage (almacenamiento).
+- Configuración de kernel y sus módulos.
+- Administración e interpretación de logs.
+- Registros del sistema.
+- Servicios gráficos.
