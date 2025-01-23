@@ -1,19 +1,10 @@
 ## Tabla de Contenidos
 
-- [Gestión del riesgo y cumplimiento](#gestion-del-riesgo-y-cumplimiento-en-ciberseguridad)
-- [Amenazas y ataques](#amenazas-y-ataques)
-- [Antivirus, troyanos, malware, ransomware](#antivirus,-troyanos,-malware,-ransomware)
+- [Introducción](#introduccion)
+- [Encabezados](#encabezados)
+- [Listas](#listas)
 
-* .
-* Ingeniería social, phishing y variantes.
-* Gestión de identidad: Autenticación y Tokens.
-* Gestión de contraseñas y sistemas biométricos.
-* Monitoreo, controles y logs.
-* Red Team, Blue Team y Purple Team.
-* Evaluación y seguridad en las operaciones.
-* Evaluación de vulnerabilidades y Pentest.
-
-# Gestión del riesgo y cumplimiento
+## Introducción
 
 La **gestión del riesgo y cumplimiento** (Risk Management and Compliance, RMC) es una parte fundamental de la ciberseguridad. Se enfoca en identificar, evaluar y mitigar los riesgos asociados a la información y garantizar que las organizaciones cumplan con las regulaciones legales, normativas y estándares del sector. A continuación, se detallan sus conceptos clave.
 
@@ -130,6 +121,10 @@ Existen herramientas y marcos reconocidos para implementar una estrategia efecti
 
 La **gestión del riesgo y cumplimiento** no es un objetivo estático; es un proceso continuo que debe adaptarse al entorno cambiante de la ciberseguridad y las regulaciones. Implementar una estrategia sólida protege a la organización contra amenazas y asegura su sostenibilidad a largo plazo.
 
----
+## Encabezados
 
-# Amenazas y ataques
+Aquí se explica el uso de los encabezados.
+
+## Listas
+
+Aquí se explica el uso de las listas.
