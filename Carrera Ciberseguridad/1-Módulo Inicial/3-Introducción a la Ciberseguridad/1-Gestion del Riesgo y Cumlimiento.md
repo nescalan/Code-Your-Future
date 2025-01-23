@@ -1,10 +1,4 @@
-## Tabla de Contenidos
-
-- [Introducción](#introduccion)
-- [Encabezados](#encabezados)
-- [Listas](#listas)
-
-## Introducción
+# Gestión del Riesgo y Cumplimiento en Ciberseguridad
 
 La **gestión del riesgo y cumplimiento** (Risk Management and Compliance, RMC) es una parte fundamental de la ciberseguridad. Se enfoca en identificar, evaluar y mitigar los riesgos asociados a la información y garantizar que las organizaciones cumplan con las regulaciones legales, normativas y estándares del sector. A continuación, se detallan sus conceptos clave.
 
@@ -120,11 +114,3 @@ Existen herramientas y marcos reconocidos para implementar una estrategia efecti
 ---
 
 La **gestión del riesgo y cumplimiento** no es un objetivo estático; es un proceso continuo que debe adaptarse al entorno cambiante de la ciberseguridad y las regulaciones. Implementar una estrategia sólida protege a la organización contra amenazas y asegura su sostenibilidad a largo plazo.
-
-## Encabezados
-
-Aquí se explica el uso de los encabezados.
-
-## Listas
-
-Aquí se explica el uso de las listas.
